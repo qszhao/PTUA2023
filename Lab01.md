@@ -40,4 +40,4 @@
 [anaconda_doc]: https://docs.anaconda.com/anaconda/
 [markdown]: https://www.markdownguide.org/basic-syntax/
 [Atom]: https://atom.io/
-[Sublime]: https://www.sublimetext.com/3/
+[Sublime]: https://www.sublimetext.com/3
