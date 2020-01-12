@@ -1,2 +1,2 @@
 # PTUA2020
-All materials visible to all class members
+This is the repository for in-class exercises for PTUA 2020. 
