@@ -26,7 +26,7 @@
  2. Find the qszhao/PTUA2020 repo on GitHub website and Fork it to your own repo. 
 
 #### Code/text editor
- 1. Download a code/text editor.
+ 1. Download a code/text editor ([Atom][Atom] or [Sublime Text][Sublime]).
  2. Try to explore the text editor.  
 
 #### Google Colab
@@ -39,3 +39,5 @@
 [anaconda]: https://www.anaconda.com/distribution/#download-section
 [anaconda_doc]: https://docs.anaconda.com/anaconda/
 [markdown]: https://www.markdownguide.org/basic-syntax/
+[Atom]: https://atom.io/
+[Sublime]: https://www.sublimetext.com/3/
