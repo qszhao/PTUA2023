@@ -20,6 +20,8 @@
  5. Start a Python interpretor.
  6. Try to do some simple calculation by the python interpretor.
  7. Explore Spyder IDE in the Anaconda.  
+ 8. Try to write markdown based on the [Markdown_guide][markdown].
+ 9. Try to write LaTeX math based on the [LaTeX][LaTex_math].
 
 #### Git
  1. Sign up for a GitHub account at https://github.com/join.
@@ -33,7 +35,7 @@
  1. Set up or use your existing google account to enter google colab.
  2. Start a new jupyter notebook in your google colab.
  3. Try to do some simple calculation by the jupyter notebook.
- 4. Try to write markdown based on the [Markdown_guide][markdown].
+
 
 [ana_dl]: https://www.anaconda.com/distribution/
 [anaconda]: https://www.anaconda.com/distribution/#download-section
@@ -41,3 +43,4 @@
 [markdown]: https://www.markdownguide.org/basic-syntax/
 [Atom]: https://atom.io/
 [Sublime]: https://www.sublimetext.com/3
+[LaTex_math]: https://www.math.ubc.ca/~pwalls/math-python/jupyter/latex/
