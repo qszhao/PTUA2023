@@ -6,7 +6,7 @@
 
  - Install the Anaconda Python Distribution on your own laptop
  - Try to use Google Colab
- - Setup a github account
+ - Setup a GitHub account
  - Instal a code/text editor
 
 ### Instructions
@@ -23,7 +23,7 @@
 
 #### Git
  1. Sign up for a GitHub account at https://github.com/join.
- 2. Find the qszhao/PTUA2020 repo on GitHub website and Fork it to your own repo. 
+ 2. Find the qszhao/PTUA2020 repo on GitHub website and Fork it to your own repo.
 
 #### Code/text editor
  1. Download a code/text editor ([Atom][Atom] or [Sublime Text][Sublime]).
@@ -32,7 +32,7 @@
 #### Google Colab
  1. Set up or use your existing google account to enter google colab.
  2. Start a new jupyter notebook in your google colab.
- 3. Try to do some simple calculation by the jupyter notebook. 
+ 3. Try to do some simple calculation by the jupyter notebook.
  4. Try to write markdown based on the [Markdown_guide][markdown].
 
 [ana_dl]: https://www.anaconda.com/distribution/
