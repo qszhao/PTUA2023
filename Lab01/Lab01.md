@@ -31,8 +31,8 @@
  2. Download the Markdown file from the [qszhao/PTUA2020][repo] and try to open the Lab01.md from the text editor.  
 
 #### Google Colab
- 1. Set up or use your existing google account to enter google colab.
- 2. Start a new jupyter notebook in your google colab.
+ 1. Set up or use your existing Google account to enter [Google Colab][colab].
+ 2. Start a new jupyter notebook in your Google Colab.
  3. Try to do some simple math calculation by the jupyter notebook.
  
 [anaconda]: https://www.anaconda.com/distribution/#download-section
@@ -41,4 +41,5 @@
 [Atom]: https://atom.io/
 [Sublime]: https://www.sublimetext.com/3
 [LaTex_math]: https://www.math.ubc.ca/~pwalls/math-python/jupyter/latex/
-[repo]: https://github.com/qszhao/PTUA2020
+[repo]: https://github.com/qszhao/PTUA2020#
+[colab]: https://colab.research.google.com/notebooks/welcome.ipynb?hl=en#recent=true
