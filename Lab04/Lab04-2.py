@@ -1,6 +1,6 @@
 
 class Graph:
-    """My class for exercise 07 """
+    """My class for Lab04"""
     def __init__(self, gal_file):
 
         # get file name
@@ -53,4 +53,4 @@ class Graph:
 
 if __name__ == '__main__':
 
-    my_gal = Graph("e06.gal")
+    my_gal = Graph("Lab04-1.gal")
