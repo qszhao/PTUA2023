@@ -191,13 +191,13 @@ You can connect to Carto using the cartodb() statement which requires your accou
 # Connects R to Carto
 #cartodb("urbananalytics", api.key="optional-key-for-writes") #optional API key
 # Connect to your Carto instance - change the name in the "" to your account name
-cartodb("urbananalytics")
+cartodb("qzhao24")
 cartodb.test()
 
 ```
 
 ```{r echo=FALSE, warning=FALSE, message=FALSE}
-cartodb("urbananalytics", api.key="5c0dcfdd79366035bf50cc6229da08032b35445a")
+cartodb("qzhao24", api.key="7dac973e8636722458b6fc5b8976744bd32eb104")
 ```
 
 
@@ -207,9 +207,13 @@ Now that we have connected to Carto, we can pull data down into R using the cart
 
 ```{r}
 # 
-#Download the top ten rows of the table "brooklyn_trees"
-tmp <- cartodb.collection("brooklyn_trees", geomAs="XY", limit=10)
+#Download the top ten rows of the table "brooklyn_trees" (Note: the data does not show in the markdown session but can show in the console. Just type tmp and run in the console.)
+tmp <- cartodb.collection("brooklyn_trees", geomAs = "XY", limit = 10)
 tmp
+
+#Show the ten tree types in the database. 
+treespecies <- cartodb.collection("brooklyn_trees", columns = "tree_speci", geomAs="XY", limit=10)
+treespecies
 ```
 
 Data stored within a spatial database typically has an additional column which in the case of Carto (and PostGIS) is named by default as "the_geom". This stores the spatial information that is applicable to each row of the database. In the case of the table "brooklyn_trees", this is the latitude and longitude coordinates of each tree record; and in "brooklyn_neigh_tab", is a set of [linestrings](https://en.wikipedia.org/wiki/Well-known_text) delineating the polygons bounding each of the neighborhood zones. The addition of the geomAS="XY" converted these to latitude and longitude in the results of the returned query.
