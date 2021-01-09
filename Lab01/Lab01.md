@@ -1,5 +1,5 @@
 ## URBAN 5123 Programming Tools for Urban Analytics
-## Spring 2020
+## Spring 2021
 ## Lab01: Setting up
 
 ### Objectives
@@ -24,11 +24,11 @@
 
 #### Git
  1. Sign up for a GitHub account at https://github.com/join.
- 2. Find the [qszhao/PTUA2020][repo] repo on GitHub website and fork it to your own repo.
+ 2. Find the [qszhao/PTUA2021][repo] repo on GitHub website and fork it to your own repo.
 
 #### Code/text editor
  1. Download a code/text editor ([Atom][Atom] or [Sublime Text][Sublime]).
- 2. Download the Markdown file from the [qszhao/PTUA2020][repo] and try to open the Lab01.md from the text editor.  
+ 2. Download the Markdown file from the [qszhao/PTUA2021][repo] and try to open the Lab01.md from the text editor.  
 
 #### Google Colab
  1. Set up or use your existing Google account to enter [Google Colab][colab].
