@@ -18,7 +18,8 @@
  3. Using the installer you downloaded, install the Anaconda Python distribution.
  4. Explore JupyterLab, Jupyter Notebook, iPython interpretor (Qt Console) and Spyder IDE in the Anaconda.  
  5. Start a iPython interpretor (Qt Console) from the Anaconda Navigator and try to write the python code based on PTUA Lecture 1.ipynb.
- 6. Try to write markdown, LaTeX math, and python code in the Jupyter Notebook based on the [Markdown_guide][markdown] and the [LaTeX][LaTex_math].
+ 6. Try to write markdown and LaTeX math in the Jupyter Notebook based on the [Markdown_guide][markdown] and the [LaTeX][LaTex_math].
+ 7. Create at least one visualization from the Matplotlib [visualization gallary][gallary]. Try to run it both from the source code and jupyter notebook. 
 
 #### Git
  1. Sign up for a GitHub account at https://github.com/join.
@@ -34,6 +35,9 @@
  2. Start a new jupyter notebook in your Google Colab.
  3. Copy and Paste the content in PTUA Lecture 1.ipynb and obtain the same results.
  
+#### Hint
+ 1. You may receive trackbacks or error messages during your coding exercises. The first thing you can do is to ask Google. You will find your answer most of the time. [Stack overflow][stackoverflow] is one of the most common websites we use to find solutions. 
+ 
 [anaconda]: https://www.anaconda.com/distribution/#download-section
 [anaconda_doc]: https://docs.anaconda.com/anaconda/
 [markdown]: https://www.markdownguide.org/basic-syntax/
@@ -42,3 +46,5 @@
 [LaTex_math]: https://www.math.ubc.ca/~pwalls/math-python/jupyter/latex/
 [repo]: https://github.com/qszhao/PTUA2020#
 [colab]: https://colab.research.google.com/notebooks/welcome.ipynb?hl=en#recent=true
+[gallary]: https://matplotlib.org/3.1.1/gallery/index.html
+[stackoverflow]: https://stackoverflow.com/
