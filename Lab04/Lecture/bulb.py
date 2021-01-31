@@ -1,4 +1,3 @@
-
 class bulb():
     'here is a test of defining bulb'
     def __init__(self, bulb_status=False,bulb_name='PUTA2021 bulb'):
