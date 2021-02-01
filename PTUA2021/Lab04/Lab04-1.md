@@ -1,0 +1,26 @@
+## URBAN 5123 Programming Tools for Urban Analytics
+## Spring 2021
+## Lab04-1: Functions and Modules
+
+### Instructions
+
+In this exercise you will be writing a module to deal with a particular type of spatial data structure. More specifically, a GAL file (Geographic Algorithm Library) is used to express the binary neighbor relations between a set of n spatial objects. More explanation of the GAL file can be found [here][here] (see Figure 8).
+
+Your module should be called `gal.py`. It must contain functions to do the following:
+
+1. Return a Python dictionary where the key is the id of a spatial unit and the value is a list of the ids of its neighbors.
+
+2. Take a gal dictionary from 1 and return a second dictionary that has the histogram for the neighbor cardinalities. The key is the number of neighbors and the value is the list of ids that have key neighbors.
+
+3. Take a gal dictionary from 1 and test if there are any asymmetries. An asymmetry occurs when i says j is a neighbor of i, but j does not say i is a neighbor of j.
+
+
+Test you script on the input file [Lab04-1.gal]
+
+### Submission
+
+1. Create a branch called `Lab04` that contains your gal.py file
+2. Submit a pull request
+
+[here]: https://geodacenter.github.io/workbook/4a_contig_weights/lab4a.html
+[Lab04-1.gal]: Lab04-1.gal

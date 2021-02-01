@@ -1,0 +1,29 @@
+## URBAN 5123 Programming Tools for Urban Analytics
+## Spring 2021
+## Lab04-2: Object Orientation
+
+### Instructions
+
+In this exercise you will be employing object oriented concepts to design a module to represent and analyze adjacency relations. More specifically, you should design classes that allow for the representation of adjacency relations between spatial polygons borrowing concepts from graph theory. Polygons can be thought of as **nodes** on a graph and an adjacency relationship between two polygons could be represented by an **edge**.
+
+You can use the [gal file] from the previous assignment to test your implementation.
+
+Your module should be called `adjacency.py`. It must contain classes, functions, methods, and attributes  that address the following types of analyses.
+
+1. Take a gal file as input and instantiate a **Graph** object. The **Graph** class should be *composed* of **Node** objects that *encapsulate* local adjacency information.
+
+2. Report summary statistics about the graph including:
+	* Average connectivity: report value
+	* Maximum connectivity: report value and node objects having that level of connectivity
+	* Minimum connectivity (for **Nodes** having 1 or more neighbors)
+	* Disconnected nodes: report the specific node objects, if any, otherwise report that there are no islands
+
+You can repurpose some of the code you used in [Exercise Lab04-1], but it needs to be refactored using object oriented design.
+
+### Submission
+
+1. Create a branch called `Lab04` that contains your `adjacency.py` file
+2. Submit a pull request
+
+[gal file]: Lab04-1.gal
+[Exercise Lab04-1]: Lab04-1.md
