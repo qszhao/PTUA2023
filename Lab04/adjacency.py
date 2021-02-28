@@ -38,9 +38,3 @@ class Graph:
         gal_summary['Minimum_connectivity'] = Min_con
         gal_summary['Disconnected_nodes'] = dis_con
         return gal_summary
-
-if __name__ == '__main__':
-
-    my_gal = Graph("E:\PTUA\PTUA\Lab04\Lab\Lab04-1.gal")
-    print(my_gal.Node)
-    print(my_gal.summary())
