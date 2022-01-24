@@ -17,7 +17,7 @@
  2. Read the [Anaconda Documentation][anaconda_doc].
  3. Using the installer you downloaded, install the Anaconda Python distribution.
  4. Now we explore different methods to use Python. First, explore JupyterLab, Jupyter Notebook, iPython interpretor (Qt Console) and Spyder IDE in the Anaconda.  
- 5. If you want, you can change your Anaconda working directory based on this [guide][guide] (for windows system). If you have a Mac/Linux, you can always navigate to your folder through terminal and open jupyter notebook from there (more details will be covered in week 2).
+ 5. If you want, you can change your Anaconda working directory based on this [guide][guide](for windows system). If you have a Mac/Linux, you can always navigate to your folder through terminal and open jupyter notebook from there (more details will be covered in week 2).
  6. Download the course repository from [qszhao/PTUA2022][repo] as a zip file and put it into your Anaconda working directory.
  7. Start a jupyter notebook and try to open PTUA Lecture 1.ipynb and run through it (hint: use shift-enter). 
  8. Try to write markdown and LaTeX math in the Jupyter Notebook based on the [Markdown_guide][markdown] and the [LaTeX][LaTex_math].
