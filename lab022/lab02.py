@@ -1,2 +1,2 @@
 
-123123
+message=hello world
