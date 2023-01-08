@@ -16,7 +16,7 @@
  1. Download the Anaconda on the [download page][anaconda], select the installer that is appropriate for the operating system of your machine.
  2. Read the [Anaconda Documentation][anaconda_doc].
  3. Using the installer you downloaded, install the Anaconda Python distribution.
- 4. Now we explore different methods to use Python. First, explore JupyterLab, Jupyter Notebook, iPython interpretor (Qt Console) and Spyder IDE in the Anaconda.  
+ 4. Now we explore different methods to use Python. First, explore JupyterLab, Jupyter Notebook, iPython interpretor (Qt Console) and Spyder IDE in the Anaconda (Small task: print "hello world" in each of the python environment)
  5. If you want, you can change your Anaconda working directory based on this [guide][guide](for windows system). If you have a Mac/Linux, you can always navigate to your folder through terminal and open jupyter notebook from there (more details will be covered in week 2).
  6. Download the course repository from [qszhao/PTUA2023][repo] as a zip file and put it into your Anaconda working directory.
  7. Start a jupyter notebook and try to open PTUA Lecture 1.ipynb and run through it (hint: use shift-enter). 
@@ -40,7 +40,7 @@
  3. Copy and Paste the content in PTUA Lecture 1.ipynb and obtain the same results.
  
 #### Hint
- 1. You may receive trackbacks or error messages during your coding exercises. The first thing you can do is to ask Google (or ChatOPT?) smartly. You will find your answer from Google most of the time. [Stack overflow][stackoverflow] is one of the most common websites we use to find solutions as well. 
+ 1. You may receive trackbacks or error messages during your coding exercises. The first thing you can do is to ask Google (or ChatGPT?) smartly. You will find your answer from Google most of the time. [Stack overflow][stackoverflow] is one of the most common websites we use to find solutions as well. 
  
 [anaconda]: https://www.anaconda.com/distribution/#download-section
 [anaconda_doc]: https://docs.anaconda.com/anaconda/
