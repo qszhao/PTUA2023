@@ -16,7 +16,7 @@
  1. Download the Anaconda on the [download page][anaconda], select the installer that is appropriate for the operating system of your machine.
  2. Read the [Anaconda Documentation][anaconda_doc].
  3. Using the installer you downloaded, install the Anaconda Python distribution.
- 4. Now we explore different methods to use Python. First, explore JupyterLab, Jupyter Notebook, iPython interpretor (Qt Console) and Spyder IDE in the Anaconda (Small task: print "hello world" in each of the python environment)
+ 4. Now we explore different methods to use Python. First, explore JupyterLab, Jupyter Notebook, iPython interpretor (Qt Console) and Spyder IDE in the Anaconda (**Small task: print "hello world" in each of the python environment**)
  5. If you want, you can change your Anaconda working directory based on this [guide][guide](for windows system). If you have a Mac/Linux, you can always navigate to your folder through terminal and open jupyter notebook from there (more details will be covered in week 2).
  6. Download the course repository from [qszhao/PTUA2023][repo] as a zip file and put it into your Anaconda working directory.
  7. Start a jupyter notebook and try to open PTUA Lecture 1.ipynb and run through it (hint: use shift-enter). 
