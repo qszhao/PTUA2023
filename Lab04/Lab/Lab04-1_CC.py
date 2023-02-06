@@ -52,5 +52,5 @@ for id in h:
             print('No')
             print('because ', neighbor, ' says that ', id, 'is not a neighbor')
             
-#An asymmetry occurs because 9 is 21's neighbor but 21 is not 9's neighbor.
+#An asymmetry occurs because 9 is 21's neighbor but 21 is not 9's neighbor
 
