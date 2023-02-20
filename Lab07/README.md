@@ -1,6 +1,6 @@
 ![logo](./images/ubdc_logo.png)
 
-# Intro to geospatial analysis and database using Python - PTUA 2022
+# Intro to geospatial analysis and database using Python - PTUA 2023
 
 This is repo containing materials for Urban Analytics MSc lab
 
